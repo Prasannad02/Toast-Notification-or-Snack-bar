@@ -16,7 +16,7 @@
 
 Live Demo:
 
-    https://codesoftg.github.io/TGCodes-Toast-Notification-Bar/
+    https://prasannad02.github.io/Toast-Notification-or-Snack-bar/
     
 ## Getting Started
 
